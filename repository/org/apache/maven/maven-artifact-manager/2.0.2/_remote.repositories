@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 12 16:12:12 UTC 2017
+maven-artifact-manager-2.0.2.jar>repo.jenkins-ci.org=
+maven-artifact-manager-2.0.2.pom>repo.jenkins-ci.org=
+maven-artifact-manager-2.0.2.pom>central=

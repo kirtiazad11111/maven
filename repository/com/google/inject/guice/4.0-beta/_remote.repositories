@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 12 09:51:20 UTC 2017
+guice-4.0-beta.pom>repo.jenkins-ci.org=
+guice-4.0-beta.jar>repo.jenkins-ci.org=
+guice-4.0-beta-no_aop.jar>repo.jenkins-ci.org=

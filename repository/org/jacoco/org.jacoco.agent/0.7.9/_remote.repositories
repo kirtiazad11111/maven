@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 12 16:11:27 UTC 2017
+org.jacoco.agent-0.7.9-runtime.jar>repo.jenkins-ci.org=
+org.jacoco.agent-0.7.9.pom>repo.jenkins-ci.org=

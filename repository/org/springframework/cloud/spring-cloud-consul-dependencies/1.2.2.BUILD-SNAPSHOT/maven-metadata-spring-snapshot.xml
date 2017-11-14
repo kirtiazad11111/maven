@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-consul-dependencies</artifactId>
+  <version>1.2.2.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170911.134148</timestamp>
+      <buildNumber>891</buildNumber>
+    </snapshot>
+    <lastUpdated>20170911134148</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.2.BUILD-20170911.134148-891</value>
+        <updated>20170911134148</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

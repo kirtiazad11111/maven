@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 12 09:54:25 UTC 2017
+commons-logging-1.0.4.jar>repo.jenkins-ci.org=
+commons-logging-1.0.4.pom>repo.jenkins-ci.org=
+commons-logging-1.0.4.jar>central=
+commons-logging-1.0.4.pom>central=

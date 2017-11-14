@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 12 09:51:05 UTC 2017
+jffi-1.2.7.jar>repo.jenkins-ci.org=
+jffi-1.2.7.pom>repo.jenkins-ci.org=
+jffi-1.2.7-native.jar>repo.jenkins-ci.org=
